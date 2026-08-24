@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\bin\Debug\OopsConceptPractice.exe.config
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\bin\Debug\OopsConceptPractice.exe
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\bin\Debug\OopsConceptPractice.pdb
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\obj\Debug\OopsConceptPractice.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\obj\Debug\OopsConceptPractice.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\obj\Debug\OopsConceptPractice.exe
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\OopsConceptPractice\obj\Debug\OopsConceptPractice.pdb
