@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\bin\Debug\CSharpConcepts.exe.config
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\bin\Debug\CSharpConcepts.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\bin\Debug\CSharpConcepts.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\obj\Debug\CSharpConcepts.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CSharpConcepts\obj\Debug\CSharpConcepts.pdb
