@@ -12,16 +12,17 @@ namespace CSharpConcepts
         static void Main(string[] args)
         {
             //Default or Implicit constructor
-            Console.WriteLine("Default or Implicit constructor");
-            Program p = new Program();
-            Console.WriteLine("Value of x:" + p.x);
-            Console.WriteLine("Value of y:" + p.y);
+            //Console.WriteLine("Default or Implicit constructor");
+            //Program p = new Program();
+            //Console.WriteLine("Value of x:" + p.x);
+            //Console.WriteLine("Value of y:" + p.y);
 
             /********** output **************
              * Value of x:0
              * Value of y:False
              * *******************************/
             //--------------------End of topic----------------------------------------------//
+            // Every time will print this -> static Constuctor called!!!
             ExplicitConstructor ex = new ExplicitConstructor();
             /********** output **************
              * Constuctor called!!!

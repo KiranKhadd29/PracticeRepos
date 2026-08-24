@@ -8,11 +8,14 @@ namespace CSharpConcepts
 {
     class ExplicitConstructor
     {
-        int num;
+        int num = 1;
+        static int num2 = 55;
+
         internal ExplicitConstructor()
         {
             Console.WriteLine("Constuctor called!!!");
             Console.WriteLine("Value of num:" + num);
+            Console.WriteLine("Value of num:" + num2);
         }
 
         internal ExplicitConstructor(int numb)
@@ -27,6 +30,13 @@ namespace CSharpConcepts
             this.num = obj.num;
             Console.WriteLine("Copy Constuctor called!!!");
             Console.WriteLine(obj.num);
+        }
+
+        static ExplicitConstructor()
+        {
+            Console.WriteLine("static Constuctor called!!!");
+            //Console.WriteLine("Value of num:" + num);
+            Console.WriteLine("Value of num:" + num2);
         }
     }
 }
