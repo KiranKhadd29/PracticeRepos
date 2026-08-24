@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\bin\Debug\YoutubeStudy.exe.config
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\bin\Debug\YoutubeStudy.exe
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\bin\Debug\YoutubeStudy.pdb
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\obj\Debug\YoutubeStudy.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\obj\Debug\YoutubeStudy.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\obj\Debug\YoutubeStudy.exe
+D:\Personal\Practice\cSharp\mini_projects\YouTube\YoutubeStudy\obj\Debug\YoutubeStudy.pdb
