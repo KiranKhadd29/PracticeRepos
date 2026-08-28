@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.Variables</StartupObject>
+    <StartupObject>CSharpConcepts.InheritanceChild</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="AccessModifierOutsideClass.cs" />
     <Compile Include="ExplicitConstructor.cs" />
+    <Compile Include="InheritanceChild.cs" />
+    <Compile Include="InheritanceClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProgramClassChild.cs" />
     <Compile Include="ProgramClassNonChild.cs" />
