@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.OperatorOverload</StartupObject>
+    <StartupObject>CSharpConcepts.AbstarctImplementation</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstarctImplementation.cs" />
+    <Compile Include="AbstractParent.cs" />
     <Compile Include="AccessModifierOutsideClass.cs" />
     <Compile Include="ExplicitConstructor.cs" />
     <Compile Include="InheritanceChild.cs" />
