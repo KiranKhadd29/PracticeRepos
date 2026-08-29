@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.AbstarctImplementation</StartupObject>
+    <StartupObject>CSharpConcepts.MultipleInterface</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,8 @@
     <Compile Include="ExplicitConstructor.cs" />
     <Compile Include="InheritanceChild.cs" />
     <Compile Include="InheritanceClass.cs" />
+    <Compile Include="Interface.cs" />
+    <Compile Include="MultipleInterface.cs" />
     <Compile Include="OperatorOverload.cs" />
     <Compile Include="OverloadConcept.cs" />
     <Compile Include="ParentLoad.cs" />
