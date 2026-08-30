@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.MultipleInterface</StartupObject>
+    <StartupObject>CSharpConcepts.StructConcept</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -76,6 +76,7 @@
     <Compile Include="ProgramClassChild.cs" />
     <Compile Include="ProgramClassNonChild.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StructExample.cs" />
     <Compile Include="Variables.cs" />
   </ItemGroup>
   <ItemGroup>
