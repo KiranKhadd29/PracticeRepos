@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.EnumConcept</StartupObject>
+    <StartupObject>CSharpConcepts.PropertyConcept</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,7 @@
     <Compile Include="AbstarctImplementation.cs" />
     <Compile Include="AbstractParent.cs" />
     <Compile Include="AccessModifierOutsideClass.cs" />
+    <Compile Include="Cities.cs" />
     <Compile Include="EnumConcept.cs" />
     <Compile Include="ExplicitConstructor.cs" />
     <Compile Include="InheritanceChild.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="ProgramClassChild.cs" />
     <Compile Include="ProgramClassNonChild.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyConcept.cs" />
     <Compile Include="StructExample.cs" />
     <Compile Include="Variables.cs" />
   </ItemGroup>
