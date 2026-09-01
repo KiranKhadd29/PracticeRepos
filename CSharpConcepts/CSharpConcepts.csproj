@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.IndexerExample</StartupObject>
+    <StartupObject>CSharpConcepts.GenericDelegates</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,14 +64,19 @@
     <Compile Include="AbstarctImplementation.cs" />
     <Compile Include="AbstractParent.cs" />
     <Compile Include="AccessModifierOutsideClass.cs" />
+    <Compile Include="AnonymousDelegate.cs" />
     <Compile Include="Cities.cs" />
+    <Compile Include="DelegateStudy.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="EnumConcept.cs" />
     <Compile Include="ExplicitConstructor.cs" />
+    <Compile Include="GenericDelegates.cs" />
     <Compile Include="IndexerExample.cs" />
     <Compile Include="InheritanceChild.cs" />
     <Compile Include="InheritanceClass.cs" />
     <Compile Include="Interface.cs" />
+    <Compile Include="LambaExpression.cs" />
+    <Compile Include="MultiCastDelegate.cs" />
     <Compile Include="MultipleInterface.cs" />
     <Compile Include="OperatorOverload.cs" />
     <Compile Include="OverloadConcept.cs" />
