@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpConcepts.GenericDelegates</StartupObject>
+    <StartupObject>CSharpConcepts.ExtensionMethodRun</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,6 +70,9 @@
     <Compile Include="Employee.cs" />
     <Compile Include="EnumConcept.cs" />
     <Compile Include="ExplicitConstructor.cs" />
+    <Compile Include="ExtensionMethodNewCodeChange.cs" />
+    <Compile Include="ExtensionMethodRun.cs" />
+    <Compile Include="ExtensionMethodTest.cs" />
     <Compile Include="GenericDelegates.cs" />
     <Compile Include="IndexerExample.cs" />
     <Compile Include="InheritanceChild.cs" />
