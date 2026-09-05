@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe.config
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.pdb
