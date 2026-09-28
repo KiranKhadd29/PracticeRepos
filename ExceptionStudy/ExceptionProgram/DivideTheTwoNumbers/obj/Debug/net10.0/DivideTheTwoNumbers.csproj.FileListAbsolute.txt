@@ -1,0 +1,15 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\bin\Debug\net10.0\DivideTheTwoNumbers.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\bin\Debug\net10.0\DivideTheTwoNumbers.deps.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\bin\Debug\net10.0\DivideTheTwoNumbers.runtimeconfig.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\bin\Debug\net10.0\DivideTheTwoNumbers.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\bin\Debug\net10.0\DivideTheTwoNumbers.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.AssemblyInfoInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.AssemblyInfo.cs
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.sourcelink.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\refint\DivideTheTwoNumbers.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\DivideTheTwoNumbers.genruntimeconfig.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\ExceptionStudy\ExceptionProgram\DivideTheTwoNumbers\obj\Debug\net10.0\ref\DivideTheTwoNumbers.dll
