@@ -1,0 +1,5 @@
+1. Write a code and save as .cs file
+2. Open cmd
+3. Enter cd /d D:[location of your code file]
+4. enter cmd -> dotnet new console
+5. enter cmd -> dotnet [nameOfYourePgrm.sc]
