@@ -1,0 +1,15 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\bin\Debug\net10.0\TestProject.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\bin\Debug\net10.0\TestProject.deps.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\bin\Debug\net10.0\TestProject.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\bin\Debug\net10.0\TestProject.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.sourcelink.json
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\MicroSoft_Certification\CSharpProject_VSCode\TestProject\obj\Debug\net10.0\ref\TestProject.dll
