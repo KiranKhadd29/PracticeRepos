@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\bin\Debug\Assessment.exe.config
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\bin\Debug\Assessment.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\bin\Debug\Assessment.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\obj\Debug\Assessment.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\Assessment\obj\Debug\Assessment.pdb
