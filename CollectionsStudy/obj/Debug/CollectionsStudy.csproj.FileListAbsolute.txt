@@ -1,0 +1,7 @@
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\bin\Debug\CollectionsStudy.exe.config
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\bin\Debug\CollectionsStudy.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\bin\Debug\CollectionsStudy.pdb
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\obj\Debug\CollectionsStudy.csproj.AssemblyReference.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\obj\Debug\CollectionsStudy.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\obj\Debug\CollectionsStudy.exe
+D:\Personal\Practice\cSharp\repos\PracticeRepos\CollectionsStudy\obj\Debug\CollectionsStudy.pdb
