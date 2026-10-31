@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assessment.FizzBuzz</StartupObject>
+    <StartupObject>Assessment.GuessTheNumUsingLoops</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="DiceGame.cs" />
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="GuessTheNumUsingLoops.cs" />
+    <Compile Include="HeadsAndTails.cs" />
+    <Compile Include="Leaderboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SubscriptionRenewal.cs" />
